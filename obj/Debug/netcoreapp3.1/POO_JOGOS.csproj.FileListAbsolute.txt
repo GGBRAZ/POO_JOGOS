@@ -1,0 +1,11 @@
+D:\ProjetosGuilherme\POO_JOGOS\bin\Debug\netcoreapp3.1\POO_JOGOS.exe
+D:\ProjetosGuilherme\POO_JOGOS\bin\Debug\netcoreapp3.1\POO_JOGOS.deps.json
+D:\ProjetosGuilherme\POO_JOGOS\bin\Debug\netcoreapp3.1\POO_JOGOS.runtimeconfig.json
+D:\ProjetosGuilherme\POO_JOGOS\bin\Debug\netcoreapp3.1\POO_JOGOS.runtimeconfig.dev.json
+D:\ProjetosGuilherme\POO_JOGOS\bin\Debug\netcoreapp3.1\POO_JOGOS.dll
+D:\ProjetosGuilherme\POO_JOGOS\bin\Debug\netcoreapp3.1\POO_JOGOS.pdb
+D:\ProjetosGuilherme\POO_JOGOS\obj\Debug\netcoreapp3.1\POO_JOGOS.csprojAssemblyReference.cache
+D:\ProjetosGuilherme\POO_JOGOS\obj\Debug\netcoreapp3.1\POO_JOGOS.AssemblyInfoInputs.cache
+D:\ProjetosGuilherme\POO_JOGOS\obj\Debug\netcoreapp3.1\POO_JOGOS.AssemblyInfo.cs
+D:\ProjetosGuilherme\POO_JOGOS\obj\Debug\netcoreapp3.1\POO_JOGOS.dll
+D:\ProjetosGuilherme\POO_JOGOS\obj\Debug\netcoreapp3.1\POO_JOGOS.pdb
