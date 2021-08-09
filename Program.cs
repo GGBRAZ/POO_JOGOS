@@ -7,11 +7,11 @@ namespace POO_JOGOS
   {
     static void Main(string[] args)
     {
-      Arus arus = new Arus("Arus", 23, "Knight");
-      Jenica jenica = new Jenica("Jenica", 23, "White Wizard");
+      Knight arus = new Knight("Arus", 23, "Knight");
+      Wizard jenica = new Wizard("Jenica", 23, "White Wizard");
 
       Console.WriteLine(arus.Attack());
-      Console.WriteLine(jenica.Attack());
+      Console.WriteLine(jenica.Attack(8));
 
     }
   }
